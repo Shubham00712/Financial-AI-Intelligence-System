@@ -1,0 +1,18 @@
+{
+  "mae": 68.92276000976562,
+  "rmse": 144.2534942626953,
+  "mape": 2.4134857580065727,
+  "model_type": "TensorFlow Multi-Stock LSTM",
+  "symbols": [
+    "AXISBANK.NS",
+    "HDFCBANK.NS",
+    "ICICIBANK.NS",
+    "INFY.NS",
+    "ITC.NS",
+    "LT.NS",
+    "RELIANCE.NS",
+    "SBIN.NS",
+    "TCS.NS",
+    "TITAN.NS"
+  ]
+}
