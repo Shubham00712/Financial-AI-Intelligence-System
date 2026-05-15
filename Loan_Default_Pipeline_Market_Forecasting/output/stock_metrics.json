@@ -1,7 +1,7 @@
 {
-  "mae": 68.92276000976562,
-  "rmse": 144.2534942626953,
-  "mape": 2.4134857580065727,
+  "mae": 90.10465240478516,
+  "rmse": 192.38946533203125,
+  "mape": 3.051031194627285,
   "model_type": "TensorFlow Multi-Stock LSTM",
   "symbols": [
     "AXISBANK.NS",
