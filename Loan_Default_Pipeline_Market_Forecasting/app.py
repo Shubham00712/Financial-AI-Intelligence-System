@@ -126,7 +126,7 @@ def load_loan_artifacts():
 
 @st.cache_resource
 def load_stock_artifacts():
-    model = load_model(MARKET_MODEL_PATH)
+    model = None #load_model(MARKET_MODEL_PATH)
     scaler = joblib.load(MARKET_SCALER_PATH)
     metrics = json.load(open(MARKET_METRICS_PATH))
     forecast_df = pd.read_csv(MARKET_FORECAST_PATH)
