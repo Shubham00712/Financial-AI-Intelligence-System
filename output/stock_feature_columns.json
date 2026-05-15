@@ -1,0 +1,12 @@
+[
+  "open",
+  "high",
+  "low",
+  "close",
+  "volume",
+  "return_1d",
+  "ma_10",
+  "ma_20",
+  "volatility_10",
+  "momentum_20"
+]
